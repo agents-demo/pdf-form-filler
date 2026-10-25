@@ -1,0 +1,54 @@
+Future Task List (pdf-form-filler)
+==================================
+
+Working week rule: Sunday-Thursday are working days; Friday and Saturday are not.
+26/10 and 27/10 are non-working days as well.
+(All due dates below fall on working days.)
+
+Tasks (one per line):
+1. Add field verification (like dates) - v2
+2. Personalization: automatically identify the person by a unique field (like an ID number) - v3
+3. Field-confidence indicators - v4
+4. Signature & date stamping - v4
+5. Batch filling (one data file -> many forms) - v4
+6. Form presets/templates for common government/medical forms - v4
+7. Headless CLI + HTTP API for automation - v4
+8. Conversational form Q&A ("what does section 7 require?") - v5
+9. Auto-composed values from stored data - v5
+10. Scanned-document import into data.json - v5
+11. Multi-user profiles - v5
+12. On-device/local models for fully offline privacy - v6
+13. E-signature & submission integrations - v6
+14. Accessibility (screen-reader/high-contrast UI) - v6
+15. Wearable-friendly companion flows - v6
+16. CI, packaging and first public release
+17. Community adapters for additional model providers
+18. Shared form-preset library
+19. i18n of the UI
+20. Easy packaging (PyPI, Flatpak/AppImage for non-developer desktop users)
+21. Plugin architecture for form types and marking conventions
+22. Partnerships with non-profits, accessibility organizations and government digital-services programs
+
+Estimated Due Dates (one per line, in task order; weekday in parentheses):
+1. 2026-11-01 (Sunday)
+2. 2026-11-08 (Sunday)
+3. 2026-11-15 (Sunday)
+4. 2026-11-15 (Sunday)
+5. 2026-11-22 (Sunday)
+6. 2026-11-22 (Sunday)
+7. 2026-11-29 (Sunday)
+8. 2026-12-13 (Sunday)
+9. 2026-12-13 (Sunday)
+10. 2026-12-20 (Sunday)
+11. 2026-12-27 (Sunday)
+12. 2027-01-17 (Sunday)
+13. 2027-01-24 (Sunday)
+14. 2027-02-07 (Sunday)
+15. 2027-02-28 (Sunday)
+16. 2026-11-08 (Sunday)
+17. 2026-12-06 (Sunday)
+18. 2026-12-06 (Sunday)
+19. 2026-11-15 (Sunday)
+20. 2026-11-22 (Sunday)
+21. 2027-01-10 (Sunday)
+22. 2027-03-31 (Wednesday)
